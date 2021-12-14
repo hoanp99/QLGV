@@ -1,0 +1,12 @@
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\bin\Debug\BUS.dll
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\bin\Debug\BUS.pdb
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\bin\Debug\DAL.dll
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\bin\Debug\DAL.pdb
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\bin\Debug\DAL.dll.config
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\BUS.dll
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\BUS.pdb
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\Audd\Documents\Visual Studio 2017\Projects\QLGV\BUS\obj\Debug\BUS.csproj.ResolveComReference.cache
